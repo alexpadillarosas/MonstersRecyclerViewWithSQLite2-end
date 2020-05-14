@@ -1,6 +1,6 @@
-# MonstersRecyclerViewWithSQLite3
+# MonstersRecyclerViewWithSQLite2-end
 
-## This app is the final development of MonstersRecyclerViewWithSQLite2.
+## This app is the final development of MonstersRecyclerViewWithSQLite2-start
 
 ## Initial Features
 * Application with a RecyclerView implemented.
